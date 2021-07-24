@@ -5,9 +5,9 @@
   <p>I am passionate about implementing and launching new projects.
 </p>
 
-- 🔭 I’m currently working on Web Development. 
+- 🔭 I’m currently working for FullStack Developer. 
 - 🌱 I’m currently learning Node.js 
-- ⚡ Fun fact: I want to learn more things. 
+- ⚡ Fun fact: I want to learn more new things. 
 
 <hr>
 <h3>Skills:</h3>
@@ -21,17 +21,17 @@
 <h3>Social:</h3>
 
 <p>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="26" /></a>
+<a href="https://twitter.com/HarshDhakate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
-    <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="26" /></a>
+    <a href="https://www.linkedin.com/in/harsh-dhakate-549877193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harsh Dhakate" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
     <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
-    <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="26" /></a>
+    <a href="https://www.facebook.com/harsh.hd.55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harsh" height="20" width="26" /></a>
    &nbsp;	&nbsp;&nbsp;
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="20" width="26" /></a>
+  <a href=" https://www.discordapp.com/users/712941444461101086" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="20" width="26" /></a>
    &nbsp;	&nbsp;&nbsp;
-    <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="26" /></a>
+    <a href="https://www.instagram.com/the__hd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="26" /></a>
  </p>
  <hr>
  
