@@ -1,25 +1,24 @@
 <h1 align="center"> Hi 👋, I'm Harsh Dhakate </h1>
 <h2 align="center"> About me </h2>
-<h3>I'm a Developer and Desinger </h3>
-<p> I am a self-motivated and hardworking student seeking an opportunity to work in a challenging environment to prove my skills plus utilize my knowledge and intelligence in the organization's growth. Influential in design and integration with intuitive problem-solving skills.
+<p> I am a Software Developer, a self-motivated and hardworking student seeking an opportunity to work in a challenging environment to prove my skills plus utilize my knowledge and intelligence in the organization's growth. Influential in design and integration with intuitive problem-solving skills.
   </p>
-  <p>I am passionate about implementing and launching new projects, looking to start my career as an entry-level software engineer with a reputed firm driven by technology.
+  <p>I am passionate about implementing and launching new projects.
 </p>
-<br>
 
 - 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning Node.js 
 - ⚡ Fun fact: I want to learn more things. 
 
 <hr>
-<h2>Skills</h2>
+<h3>Skills:</h3>
 
-- 💻 HTML, CSS, JavaScript.
+- Web Development
+- App Development
+- Desktop Apps
 
 <hr>
-<br>
 
-<h2>Social</h2>
+<h3>Social:</h3>
 
 <p>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="26" /></a>
@@ -30,15 +29,39 @@
     &nbsp;	&nbsp;&nbsp;
     <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="26" /></a>
    &nbsp;	&nbsp;&nbsp;
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="20" width="26" /></a>
+   &nbsp;	&nbsp;&nbsp;
     <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="26" /></a>
  </p>
  <hr>
- <br>
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshDhakate)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ <h3>Languages & Tools:</h3>
+ 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &nbsp;	&nbsp;&nbsp;
+  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </a> &nbsp;	&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp; 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>&nbsp;	&nbsp;&nbsp; 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>  
+</p>
+<hr>
+<img src="https://komarev.com/ghpvc/?username=HarshDhakate&label=Profile%20Views&color=0e75b6&style=flat" alt="harshdhakate" />
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDhakate)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDhakate&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/HarshDhakate)  
+<a href="https://github.com/HarshDhakate/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshDhakate&show_icons=true&include_all_commits=true&theme=material-palenight" alt="github stats" />
+</a>
+<a href="https://github.com/HarshDhakate/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshDhakate&layout=compact&theme=material-palenight" />
+</a>
