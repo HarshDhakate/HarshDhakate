@@ -2,8 +2,6 @@
 <h2 align="center"> About me </h2>
 <p> I am a Software Developer, a self-motivated and hardworking student seeking an opportunity to work in a challenging environment to prove my skills plus utilize my knowledge and intelligence in the organization's growth. Influential in design and integration with intuitive problem-solving skills.
   </p>
-  <p>I am passionate about implementing and launching new projects.
-</p>
 
 - 🔭 I’m currently working for FullStack Developer. 
 - 🌱 I’m currently learning Node.js 
