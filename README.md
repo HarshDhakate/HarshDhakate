@@ -19,7 +19,7 @@
 <h3>Social:</h3>
 
 <p>
-<a href="https://twitter.com/HarshDhakate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="26" /></a>
+<!--<a href="https://twitter.com/HarshDhakate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/harsh-dhakate-549877193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harsh Dhakate" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
@@ -29,7 +29,14 @@
    &nbsp;	&nbsp;&nbsp;
   <a href=" https://www.discordapp.com/users/712941444461101086" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="20" width="26" /></a>
    &nbsp;	&nbsp;&nbsp;
-    <a href="https://www.instagram.com/the__hd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="26" /></a>
+    <a href="https://www.instagram.com/the__hd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="26" /></a> -->
+  
+   <a href="https://twitter.com/HarshDhakate" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/the__hd/" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harsh-dhakate-549877193/" target=_blank rel=noopener><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="mailto:harshdhakate.hh@gmail.com" target=_blank rel=noopener><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/harsh.hd.55" target=_blank rel=noopener><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
+  
  </p>
  <hr>
  
@@ -56,10 +63,19 @@
 <img src="https://komarev.com/ghpvc/?username=HarshDhakate&label=Profile%20Views&color=0e75b6&style=flat" alt="harshdhakate" />
 <hr>
 
-<a href="https://github.com/HarshDhakate/github-readme-stats">
+<details>
+	 <summary>Github Stats::</summary>
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=HarshDhakate&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshdhakate&layout=compact&theme=radical" width="350" height="250" ></a>
+
+</div>
+</details>
+
+<!--<a href="https://github.com/HarshDhakate/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HarshDhakate&show_icons=true&include_all_commits=true&theme=material-palenight" alt="github stats" />
 </a>
-<a href="https://github.com/HarshDhakate/github-readme-stats">
+<a href="https://github.com/HarshDhakate/github-readme-stats"> 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshDhakate&layout=compact&theme=material-palenight" />
-</a>
+ <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshDhakate&layout=compact&theme=material-palenight" />
+</a> -->
